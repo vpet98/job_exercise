@@ -2,7 +2,7 @@
 
 Python script for sending requests to an API.
 
-The API documentation is available here: [https://localisation.flotteoceanographique.fr/].
+The API documentation is available here: https://localisation.flotteoceanographique.fr/.
 
 The script gathers data in order to find which vessel went most in North in year 2021 and which vessel collected the maximum average sea temperature in it's overall travel in 2021.
 
